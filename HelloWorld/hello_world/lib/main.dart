@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               'Prayoga Bisma Putra Seza',
             ),
-            Text('1931710022'),
+            Text(' 1931710022 '),
           ],
         ),
       ),
